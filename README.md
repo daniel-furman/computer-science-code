@@ -1,5 +1,5 @@
 
-## Accelerated Computer Science Fundamentals Example Code
+## Accelerated Computer Science Fundamentals Code
 
 ---
 

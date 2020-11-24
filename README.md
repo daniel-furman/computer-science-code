@@ -9,11 +9,11 @@ Topics covered by this Specialization include basic object-oriented programming,
 
 ### 1. Object-Oriented Data Structures in C++
 
-Week 4 - Image Transform Project (Code)
+Week 4 - Image Transform Project ([Code](https://github.com/daniel-furman/computer-science-fundamentals/blob/master/Week4_ImageTransform_assignment.cpp))
 
 ### 2. Ordered Data Structures
 
-Week 1 - Linked Lists and Merge Sort Project (Code)
+Week 1 - Linked Lists and Merge Sort Project ([Code](https://github.com/daniel-furman/computer-science-fundamentals/blob/master/Week5_LinkedLists_assignment.h))
 
 Week 3 - GenericTree and Tree Traversal Project (Code)
 

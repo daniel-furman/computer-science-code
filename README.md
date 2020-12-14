@@ -32,7 +32,7 @@ GenericTree and Tree Traversal ([`Code`](https://github.com/daniel-furman/comput
 * B-Tree introduction
 * B-Tree operation: insert and search
 * Heap and priority-queue
-* min-heap, max-heap
+* Min-heap, max-heap
 * Heap operation: insert, extract-min, build heap, heapify adjustment
 * Time and space complexity analysis of above
 

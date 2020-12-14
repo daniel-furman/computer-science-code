@@ -8,6 +8,6 @@ Topics covered by these `C++` scripts include object-oriented programming, the a
 
 `Linked Lists and Merge Sort` ([Code](https://github.com/daniel-furman/computer-science-fundamentals/blob/master/Week5_LinkedLists_assignment.h))
 
-`GenericTree and Tree Traversal` (Code)
+`GenericTree and Tree Traversal` ([Code](https://github.com/daniel-furman/computer-science-code/blob/master/Week7_tree_assignment.h))
 
 ### 3. Data Structures (Unordered) (in process)

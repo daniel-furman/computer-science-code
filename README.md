@@ -2,7 +2,11 @@ Topics covered by these C++ scripts include object-oriented programming, the ana
 
 ### 1. Object-Oriented Data Structures
 
+---
+
 Image Transformation ([`Code`](https://github.com/daniel-furman/computer-science-fundamentals/blob/master/Week4_ImageTransform_assignment.cpp))
+
+---
 
 * AWS Cloud 9 configuration
 * C++ Std and Classes
@@ -16,9 +20,13 @@ Image Transformation ([`Code`](https://github.com/daniel-furman/computer-science
 
 ### 2. Data Structures (Ordered)
 
+---
+
 Linked Lists and Merge Sort ([`Code`](https://github.com/daniel-furman/computer-science-fundamentals/blob/master/Week5_LinkedLists_assignment.h))
 
 GenericTree and Tree Traversal ([`Code`](https://github.com/daniel-furman/computer-science-code/blob/master/Week7_tree_assignment.h))
+
+---
 
 * Array and Linked-list
 * Time and space complexity analysis and operation of above

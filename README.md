@@ -43,5 +43,3 @@ GenericTree and Tree Traversal ([`Code`](https://github.com/daniel-furman/comput
 * Min-heap, max-heap
 * Heap operation: insert, extract-min, build heap, heapify adjustment
 * Time and space complexity analysis of above
-
-### 3. Data Structures (Unordered) (in process)

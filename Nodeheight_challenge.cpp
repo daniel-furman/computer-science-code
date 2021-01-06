@@ -1,28 +1,4 @@
-/*
-The height of a node is the number of edges in
-its longest chain of descendants.
 
-Implement computeHeight to compute the height
-of the subtree rooted at the node n. Note that
-this function does not return a value. You should
-store the calculated height in that node's own
-height member variable. Your function should also
-do the same for EVERY node in the subtree rooted
-at the current node. (This naturally lends itself
-to a recursive solution!)
-
-Assume that the following includes have already been
-provided. You should not need any other includes
-than these.
-
-#include <cstdio>
-#include <cstdlib>
-#include <iostream>
-#include <string>
-
-You have also the following class Node already defined.
-You cannot change this class definition, so it is
-shown here in a comment for your reference only:
 
 class Node {
 public:
@@ -36,11 +12,8 @@ public:
     right = nullptr;
   }
 };
-*/
 
 void computeHeight(Node *n) {
-
-  // Implement computeHeight() here.
 
   if (n == nullptr) {
     // base case
@@ -95,15 +68,6 @@ void printTree(const Node *n) {
   std::cout << ")";
 }
 
-// The printTreeVertical function gives you a verbose,
-// vertical printout of the tree, where the leftmost nodes
-// are displayed highest. This function has already been
-// defined in some hidden code.
-// It has this function prototype: void printTreeVertical(const Node* n);
-
-// This main() function is for your personal testing with
-// the Run button. When you're ready, click Submit to have
-// your work tested and graded.
 int main() {
   Node *n = new Node();
   n->left = new Node();
@@ -117,9 +81,6 @@ int main() {
   printTree(n);
   std::cout << std::endl << std::endl;
   printTreeVertical(n);
-
-  // The Node destructor will recursively
-  // delete its children nodes.
   delete n;
   n = nullptr;
 

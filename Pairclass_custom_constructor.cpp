@@ -12,8 +12,6 @@
  * Implement its member functions below.
  */
 
-
-
 Pair::Pair(int a, int b){
   pa = new int;
   *pa = a;
@@ -36,8 +34,6 @@ Pair::~Pair(){
   delete pb;
   std::cout << "deconstructor invoked" << std::endl;
 }
-
-
 
 
  /* Here is a main() function you can use

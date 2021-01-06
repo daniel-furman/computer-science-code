@@ -1,5 +1,5 @@
 /* Class Pair has already been declared
- * as shown in the following comments:
+ * as shown:
  *
  * class Pair {
  * public:

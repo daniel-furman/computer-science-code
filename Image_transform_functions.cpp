@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cmath>
 #include <cstdlib>
-
 #include "uiuc/PNG.h"
 #include "uiuc/HSLAPixel.h"
 #include "ImageTransform.h"

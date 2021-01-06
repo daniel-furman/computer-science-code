@@ -9,7 +9,6 @@
  *  ~Pair();
  * };
  *
- * Implement its member functions below.
  */
 
 Pair::Pair(int a, int b){
@@ -34,12 +33,6 @@ Pair::~Pair(){
   delete pb;
   std::cout << "deconstructor invoked" << std::endl;
 }
-
-
- /* Here is a main() function you can use
-  * to check your implementation of the
-  * class Pair member functions.
-  */
 
 int main() {
   Pair p(15,16);

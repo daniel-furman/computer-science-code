@@ -6,7 +6,7 @@ More specific topics covered by these C++ scripts include object-oriented progra
 
 ---
 
-Image Transformation ([`Code`](https://github.com/daniel-furman/computer-science-fundamentals/blob/master/Week4_ImageTransform_assignment.cpp))
+Image Transformation
 
 ---
 
@@ -24,9 +24,9 @@ Image Transformation ([`Code`](https://github.com/daniel-furman/computer-science
 
 ---
 
-Linked Lists and Merge Sort ([`Code`](https://github.com/daniel-furman/computer-science-fundamentals/blob/master/Week5_LinkedLists_assignment.h))
+Linked Lists and Merge Sort 
 
-GenericTree and Tree Traversal ([`Code`](https://github.com/daniel-furman/computer-science-code/blob/master/Week7_tree_assignment.h))
+GenericTree and Tree Traversal
 
 ---
 

@@ -1,7 +1,5 @@
 #include <iostream>
 
-// This class Pair has already been defined for you.
-// (You may not change this definition.)
 class Pair {
 public:
   int first, second;
@@ -11,23 +9,13 @@ public:
   }
 };
 
-// Insert your declaration and implementation of the function pairFactory()
-// below, by replacing "..." with proper C++ code. Be sure to declare the
-// function type to return a pointer to a Pair.
-
 Pair * pairFactory() {
-
-  // (You can use as many lines as you want.)
   Pair *p = new Pair;
   std::cout << "The function returns p :" << std::endl;
   std::cout << p << std::endl;
   return p;
 }
 
-// Your function should be able to satisfy the tests below. You should try
-// some other things to convince yourself. If you have a bug in this problem,
-// the usual symptom is that after you submit, the grader will crash with a
-// system error. :-)
 int main() {
   Pair *p;
   p = pairFactory();
